@@ -1,4 +1,4 @@
-# Deprecated - VTEX Wishlist app
+# Deprecated - Use [vtex.wish-list](https://github.com/vtex-apps/wish-list) instead
 
 :warning: This app is no longer maintained and shouldn't be used by any store.
 
